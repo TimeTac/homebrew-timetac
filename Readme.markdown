@@ -22,10 +22,7 @@ brew install --casks PACKAGE_NAME
 
 ## Reasons for inclusion
 ### Formulae
-- ansible < 5
-  - Ansible higher 5.0 requires Python 3.5 on the host executing it, excluding Debian Stretch
-- sshpass
-  - unavailable via homebrew and used for some extremely specific tasks via Ansible
+None.
 
 ### casks
 - navicat-for-mysql < 13
