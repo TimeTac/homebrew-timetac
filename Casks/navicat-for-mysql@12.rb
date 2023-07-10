@@ -7,7 +7,6 @@ cask "navicat-for-mysql@12" do
     url "https://www.navicat.com/updater/v120/sysProfileInfo.php?appName=Navicat%20for%20MySQL&appLang=en"
     strategy :sparkle
   end
-  appcast "https://www.navicat.com/updater/v120/sysProfileInfo.php?appName=Navicat%20for%20MySQL&appLang=en"
   name "Navicat for MySQL"
   desc "Version 12 of Navicat for MySQL, to use older licenses"
   homepage "https://www.navicat.com/products/navicat-for-mysql"
